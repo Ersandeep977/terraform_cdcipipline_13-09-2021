@@ -2,7 +2,6 @@
 
 ## Microservices CI/CD With Terraform, AWS CodePipeline + AWS CodeCommit + AWS CodeBuild + AWS ECS
 
-[![N|Solid](https://learn.sandipdas.in/wp-content/uploads/sites/2/2021/08/Untitled-design-2.png)](https://learn.sandipdas.in/)
 
 This project help you set up end to end CI/CD With AWS CI/CD Tools for your Amazon ECS Applications using Terraform
 
@@ -76,8 +75,3 @@ Verify once and if all seems well, it's time to create actual remote infratuctur
 terraform apply
 ```
 
-## License
-
-MIT
-
-**Free Software, Hell Yeah!**
